@@ -1,5 +1,5 @@
 # iOS Rust Native Interop
-Examples of how to rust running in iOS with native interop with Swift and F#.
+Examples of how to cross-compile rust for iOS by native interop with Swift and F#.
 
 Before running these examples you will need to follow a few steps to setup your environment.
 
