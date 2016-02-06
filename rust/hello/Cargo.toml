@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Alex Rozgo <alex.rozgo@gmail.com>"]
+
+[lib]
+name = "hello"
+crate-type = ["staticlib"]
