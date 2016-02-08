@@ -27,6 +27,8 @@ After cloning this repo, override the toolchain:
 $ multirust override ios
 ```
 
-For a more detailed explanation checkout this great series by John Gallagher:
+For a more detailed explanation checkout these great sources:
+
+https://github.com/japaric/rust-cross
 https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/
 
