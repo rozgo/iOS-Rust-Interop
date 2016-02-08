@@ -29,6 +29,6 @@ $ multirust override ios
 
 For a more detailed explanation checkout these great sources:
 
-https://github.com/japaric/rust-cross
-https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/
+- https://github.com/japaric/rust-cross
+- https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/
 
